@@ -1,0 +1,2156 @@
+.f7c334-1-icon {
+    margin-top: -63px;
+    height: 186px;
+    width: 179px;
+    position: relative;
+    object-fit: cover;
+  }
+  .frame-child {
+    height: 35px;
+    width: 157px;
+    position: relative;
+    background-color: var(--color-gray-100);
+    display: none;
+  }
+  .sobre-nosotros {
+    text-decoration: none;
+    position: relative;
+    font-weight: 700;
+    color: inherit;
+    display: inline-block;
+    min-width: 108px;
+    z-index: 1;
+  }
+  .navigation-links,
+  .rectangle-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangle-parent {
+    background-color: var(--color-gray-100);
+    flex-direction: row;
+    padding: var(--padding-5xs) var(--padding-5xl);
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  .navigation-links {
+    flex-direction: column;
+    padding: var(--padding-10xs) 0 0;
+  }
+  .frame-item {
+    height: 35px;
+    width: 157px;
+    position: relative;
+    background-color: var(--color-gray-100);
+    display: none;
+  }
+  .contcto {
+    text-decoration: none;
+    position: relative;
+    font-weight: 700;
+    color: inherit;
+    display: inline-block;
+    min-width: 64px;
+    z-index: 1;
+  }
+  .navigation-links1,
+  .rectangle-group {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .rectangle-group {
+    background-color: var(--color-gray-100);
+    flex-direction: row;
+    padding: var(--padding-5xs) var(--padding-27xl) var(--padding-5xs)
+      var(--padding-28xl);
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  .navigation-links1 {
+    flex-direction: column;
+    padding: var(--padding-10xs) 0 0;
+  }
+  .frame-inner {
+    height: 41px;
+    width: 190px;
+    position: relative;
+    border-radius: var(--br-25xl);
+    background-color: var(--color-goldenrod);
+    display: none;
+  }
+  .hacer-pedido {
+    text-decoration: none;
+    position: relative;
+    font-size: var(--font-size-sm);
+    font-weight: 700;
+    font-family: var(--font-open-sans);
+    color: var(--color-white);
+    text-align: left;
+    display: inline-block;
+    min-width: 104px;
+    z-index: 1;
+  }
+  .rectangle-container {
+    cursor: pointer;
+    border: 0;
+    padding: var(--padding-2xs) var(--padding-24xl);
+    background-color: var(--color-goldenrod);
+    border-radius: var(--br-25xl);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    white-space: nowrap;
+  }
+  .rectangle-container:hover {
+    background-color: #c48f00;
+  }
+  .rectangle-div {
+    height: 35px;
+    width: 157px;
+    position: relative;
+    background-color: var(--color-gray-100);
+    display: none;
+  }
+  .iniciar-sesin {
+    text-decoration: none;
+    position: relative;
+    font-weight: 700;
+    color: inherit;
+    display: inline-block;
+    min-width: 94px;
+    z-index: 1;
+  }
+  .group-div {
+    background-color: var(--color-gray-100);
+    flex-direction: row;
+    padding: var(--padding-5xs) 31px var(--padding-5xs) 32px;
+    white-space: nowrap;
+  }
+  .encabezado,
+  .group-div,
+  .navigation,
+  .navigation-links2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .navigation-links2 {
+    flex-direction: column;
+    padding: var(--padding-10xs) 0 0;
+  }
+  .encabezado,
+  .navigation {
+    flex-direction: row;
+    gap: var(--gap-5xl);
+    max-width: 100%;
+  }
+  .encabezado {
+    align-self: stretch;
+    height: 91px;
+    background-color: var(--color-gray-100);
+    overflow: hidden;
+    flex-shrink: 0;
+    justify-content: space-between;
+    padding: var(--padding-6xl) 0 var(--padding-6xl) var(--padding-mid);
+    box-sizing: border-box;
+    top: 0;
+    z-index: 99;
+    position: sticky;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+    font-family: var(--font-open-sans);
+  }
+  .fat-burger {
+    font-size: 90px;
+  }
+  .bienvenidos-a-fat-container {
+    height: 206px;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .bienvenidos-a-fat-container,
+  .casa-de-las,
+  .hero-divider {
+    align-self: stretch;
+    position: relative;
+    z-index: 1;
+  }
+  .hero-divider {
+    height: 3px;
+    background-color: #d9d9d9;
+  }
+  .casa-de-las {
+    font-size: var(--font-size-lg);
+    font-family: var(--font-open-sans);
+    color: var(--color-white);
+    white-space: pre-wrap;
+  }
+  .hero-content {
+    width: 480px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+    max-width: 100%;
+  }
+  .diseo-sin-ttulo-3-1 {
+    position: absolute;
+    top: -317px;
+    left: -32px;
+    width: 2693px;
+    height: 1938px;
+    object-fit: cover;
+  }
+  .image-placeholder-icon,
+  .image-placeholder-icon1 {
+    position: absolute;
+    top: 121px;
+    left: 773px;
+    width: 215px;
+    height: 237px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .image-placeholder-icon1 {
+    top: 145px;
+    left: 702px;
+    width: 979px;
+    height: 725px;
+    overflow: hidden;
+    z-index: 2;
+  }
+  .image-placeholder-icon2,
+  .image-placeholder-icon3 {
+    position: absolute;
+    top: 358px;
+    left: -209px;
+    width: 529.3px;
+    height: 551.9px;
+    object-fit: contain;
+    z-index: 2;
+  }
+  .image-placeholder-icon3 {
+    top: -21px;
+    left: -147px;
+    width: 375.4px;
+    height: 379.2px;
+    z-index: 3;
+  }
+  .hero-image,
+  .intro-1 {
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }
+  .hero-image {
+    height: 1621px;
+    margin: 0 !important;
+    right: 0;
+    bottom: -544px;
+  }
+  .intro-1 {
+    top: 0;
+    box-shadow: 10px 10px 40px 30px rgba(0, 0, 0, 0.1);
+    background-color: var(--color-darkslategray-200);
+    height: 100%;
+  }
+  .mask-group-icon {
+    position: absolute;
+    top: 48px;
+    left: 130px;
+    width: 87px;
+    height: 87px;
+    z-index: 4;
+  }
+  .taste-image {
+    width: 349px;
+    height: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    right: 12px;
+    bottom: 0;
+  }
+  .nico {
+    color: var(--color-goldenrod);
+  }
+  .el-sabor-mas-container {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    z-index: 4;
+  }
+  .taste-description {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl) 0 var(--padding-8xl);
+  }
+  .cada-bocado,
+  .recetas-que-sorprenden {
+    margin: 0;
+  }
+  .recetas-que-sorprenden-container {
+    margin: 0;
+    align-self: stretch;
+    height: 85px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 4;
+  }
+  .unique-taste {
+    margin-left: -382px;
+    width: 376px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: var(--padding-120xl) 0 var(--padding-35xl);
+    box-sizing: border-box;
+    position: relative;
+    gap: var(--gap-xl);
+    max-width: 100%;
+    flex-shrink: 0;
+    text-align: center;
+  }
+  .calidad {
+    color: var(--color-goldenrod);
+  }
+  .la-mejor-calidad-container {
+    margin: 0;
+    height: 26px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    z-index: 4;
+  }
+  .quality-description {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 30px 0 var(--padding-xl);
+  }
+  .intro-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    background-color: var(--color-darkslategray-200);
+    width: 100%;
+    height: 100%;
+  }
+  .mask-group-icon1 {
+    position: absolute;
+    top: 48px;
+    left: 131px;
+    width: 87px;
+    height: 87px;
+    z-index: 4;
+  }
+  .quality-image {
+    width: 349px;
+    height: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    bottom: 0;
+    left: 13px;
+  }
+  .ingredientes-frescos-y {
+    margin: 0;
+    align-self: stretch;
+    height: 85px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: var(--font-tinos);
+    text-align: center;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 4;
+  }
+  .quality {
+    width: 387px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-120xl) var(--padding-2xs) var(--padding-35xl) 0;
+    box-sizing: border-box;
+    position: relative;
+    gap: var(--gap-5xl);
+    max-width: 100%;
+    flex-shrink: 0;
+    font-family: var(--font-font);
+  }
+  .intro-3 {
+    align-self: stretch;
+    height: 328px;
+    position: relative;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    background-color: var(--color-darkslategray-200);
+    display: none;
+  }
+  .mask-group-icon2 {
+    height: 87px;
+    width: 87px;
+    position: relative;
+    z-index: 4;
+  }
+  .service-icon {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-36xl);
+  }
+  .excepcional {
+    color: var(--color-goldenrod);
+  }
+  .servicio-excepcional {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    z-index: 4;
+  }
+  .service-exception {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .service-description {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-36xl);
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .atencin-rpida-y {
+    margin: 0;
+    align-self: stretch;
+    height: 85px;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    text-align: center;
+    display: inline-block;
+    flex-shrink: 0;
+    z-index: 4;
+  }
+  .features,
+  .inicio,
+  .service {
+    display: flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .service {
+    width: 349px;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    background-color: var(--color-darkslategray-200);
+    flex-direction: column;
+    align-items: flex-end;
+    padding: var(--padding-29xl) 0 var(--padding-35xl);
+    gap: var(--gap-xl);
+    flex-shrink: 0;
+  }
+  .features,
+  .inicio {
+    align-self: stretch;
+    align-items: flex-start;
+  }
+  .features {
+    flex-direction: row;
+    padding: 0 var(--padding-2xs) 0 367px;
+    gap: var(--gap-7xs);
+    z-index: 3;
+    text-align: left;
+    font-size: var(--font-size-7xl);
+    color: var(--color-white);
+  }
+  .inicio {
+    overflow: hidden;
+    flex-shrink: 0;
+    flex-direction: column;
+    padding: 182px 160px var(--padding-5xs);
+    position: relative;
+    gap: 170px;
+    text-align: center;
+    font-size: 70px;
+    color: var(--color-goldenrod);
+    font-family: var(--font-tinos);
+  }
+  .about-divider-icon {
+    height: 396px;
+    width: 433.8px;
+    position: absolute;
+    margin: 0 !important;
+    top: 83px;
+    left: -114px;
+    object-fit: contain;
+  }
+  .span {
+    color: var(--color-black);
+  }
+  .historia {
+    color: var(--color-goldenrod);
+  }
+  .nuestra-historia {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .story-title {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 34px;
+  }
+  .cada-emprendimiento-tiene {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--font-size-base);
+    font-family: var(--font-open-sans);
+    text-align: center;
+    z-index: 1;
+  }
+  .story-title-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-2xl);
+  }
+  .div {
+    position: relative;
+    display: inline-block;
+    min-width: 23px;
+  }
+  .placeholder {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-7xl) 0 0;
+  }
+  .grid-placeholder,
+  .grid-placeholder1 {
+    position: relative;
+    display: inline-block;
+    white-space: nowrap;
+  }
+  .grid-placeholder {
+    min-width: 69px;
+  }
+  .grid-placeholder1 {
+    width: 104px;
+    flex-shrink: 0;
+  }
+  .locations-grid {
+    width: 312px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+  }
+  .locales {
+    width: 70px;
+    position: relative;
+    display: inline-block;
+    min-width: 70px;
+  }
+  .de-burger,
+  .variedades {
+    margin: 0;
+  }
+  .food-items {
+    position: relative;
+  }
+  .count {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-5xs) 0 0;
+    box-sizing: border-box;
+    min-width: 73px;
+  }
+  .burgers,
+  .vendidas {
+    margin: 0;
+  }
+  .burgers-vendidas {
+    position: relative;
+  }
+  .sold-count {
+    flex: 1;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 30px;
+  }
+  .locations-content,
+  .sold,
+  .sold-count {
+    display: flex;
+    max-width: 100%;
+  }
+  .sold {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 10px 0 0;
+    box-sizing: border-box;
+    font-size: var(--font-size-xl);
+    color: var(--color-white);
+  }
+  .locations-content {
+    flex: 1;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: var(--gap-12xs);
+  }
+  .locations {
+    width: 414px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-20xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    text-align: center;
+    font-size: var(--font-size-21xl);
+    color: var(--color-goldenrod);
+    font-family: var(--font-open-sans);
+  }
+  .about-content,
+  .story {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .story {
+    align-self: stretch;
+    align-items: flex-end;
+    gap: 104px;
+    max-width: 100%;
+  }
+  .about-content {
+    width: 444px;
+    align-items: flex-start;
+    padding: var(--padding-47xl) 0 0;
+    box-sizing: border-box;
+    max-width: calc(100% - 556px);
+    flex-shrink: 0;
+  }
+  .image-placeholder-icon4 {
+    position: absolute;
+    top: 361px;
+    left: 212px;
+    width: 323.6px;
+    height: 317.7px;
+    object-fit: contain;
+  }
+  .an-jubs0au4kfayi-f0urdziiky0gm-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 315px;
+    height: 552px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .image {
+    height: 678.7px;
+    width: 535.6px;
+    position: relative;
+    max-width: calc(100% - 464px);
+  }
+  .sobre-nosotros1 {
+    align-self: stretch;
+    height: 788px;
+    background-color: var(--color-darkslategray-200);
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: var(--padding-119xl) 0 135px 227px;
+    box-sizing: border-box;
+    position: relative;
+    gap: var(--gap-xl);
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-35xl);
+    color: var(--color-white);
+    font-family: var(--font-tinos);
+  }
+  .info-divider-icon {
+    height: 2729px;
+    width: 3925px;
+    position: absolute;
+    margin: 0 !important;
+    top: -1307px;
+    right: -1243px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .jos-c-paz,
+  .los-polvorines {
+    margin: 0;
+    white-space: pre-wrap;
+  }
+  .jos-c-paz-container {
+    margin: 0;
+    position: relative;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .blas-parera-4556 {
+    color: var(--color-white);
+  }
+  .take-away-blas-container {
+    margin: 0;
+    position: relative;
+    font-size: var(--font-size-5xl);
+    font-weight: 700;
+    font-family: var(--font-open-sans);
+    display: inline-block;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .address,
+  .info-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .address {
+    align-self: stretch;
+    gap: var(--gap-xl);
+  }
+  .info-content {
+    width: 655px;
+    padding: var(--padding-18xl) 0 0;
+    box-sizing: border-box;
+    min-width: 655px;
+  }
+  .anotacin-2024-08-24-195739 {
+    width: 355px;
+    position: relative;
+    max-height: 100%;
+    object-fit: cover;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .adicional,
+  .men {
+    position: relative;
+  }
+  .adicional {
+    align-self: stretch;
+    background-color: var(--color-black);
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: var(--padding-39xl) 161px 60px 155px;
+    box-sizing: border-box;
+    max-width: 100%;
+    gap: var(--gap-xl);
+    text-align: left;
+    font-size: 52px;
+    color: var(--color-goldenrod);
+    font-family: var(--font-tinos);
+  }
+  .men {
+    margin: 0;
+    font-size: inherit;
+    font-weight: 400;
+    font-family: inherit;
+    display: inline-block;
+    min-width: 127px;
+  }
+  .food-title {
+    width: 1133px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 0 0 28px;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .image-placeholder-icon5,
+  .image-placeholder-icon6,
+  .item-image-icon {
+    align-self: stretch;
+    height: 426.5px;
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .image-placeholder-icon5,
+  .image-placeholder-icon6 {
+    height: 289.6px;
+  }
+  .image-placeholder-icon6 {
+    height: 276.6px;
+  }
+  .image-placeholder-parent {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 13px;
+    min-width: 204px;
+    flex-shrink: 0;
+  }
+  .item-description-icon {
+    height: 579.2px;
+    width: 209.6px;
+    position: relative;
+    object-fit: cover;
+    min-height: 579px;
+  }
+  .item,
+  .item-details {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .item-details {
+    align-self: stretch;
+    flex-direction: row;
+    gap: var(--gap-base-6);
+  }
+  .item {
+    flex: 1;
+    flex-direction: column;
+    gap: 9.3px;
+    min-width: 350px;
+    max-width: 100%;
+  }
+  .item-two-icon {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    border-radius: 50%;
+    background-color: var(--color-gray-200);
+    z-index: 2;
+  }
+  .item-two-icon-wrapper {
+    align-self: stretch;
+    height: 53.7px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-12xs);
+    box-sizing: border-box;
+  }
+  .item-two-name {
+    align-self: stretch;
+    position: relative;
+    line-height: 26px;
+    display: inline-block;
+    min-width: 56px;
+    z-index: 3;
+    margin-top: -39.8px;
+  }
+  .icon,
+  .item-two-image {
+    display: flex;
+    align-items: flex-start;
+  }
+  .icon {
+    align-self: stretch;
+    width: 56px;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .item-two-image {
+    width: 292px;
+    height: 53.7px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .dish-1-1-icon {
+    height: 205.8px;
+    width: 207px;
+    position: absolute;
+    margin: 0 !important;
+    top: 6px;
+    left: -7px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .rectangle-icon {
+    width: 468px;
+    height: 231px;
+    position: relative;
+    display: none;
+    max-width: 100%;
+  }
+  .double-fat-classic,
+  .promo-fat-1 {
+    position: relative;
+    line-height: 26px;
+  }
+  .promo-fat-1 {
+    font-size: var(--font-size-xl);
+    color: var(--color-goldenrod);
+    text-align: center;
+    display: inline-block;
+    min-width: 99px;
+    z-index: 2;
+  }
+  .double-fat-classic {
+    flex: 1;
+    text-decoration: underline;
+    z-index: 1;
+  }
+  .double-fat-classic-2-cheese-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 var(--padding-11xs);
+  }
+  .hamburguesas-en-pan {
+    height: 60.7px;
+    flex: 1;
+    position: relative;
+    line-height: 26px;
+    display: inline-block;
+    z-index: 1;
+  }
+  .hamburguesas-en-pan-de-papa-br-wrapper,
+  .vector-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .hamburguesas-en-pan-de-papa-br-wrapper {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 0 0 var(--padding-11xs);
+  }
+  .vector-parent {
+    flex: 1;
+    background-color: var(--color-darkslategray-100);
+    flex-direction: column;
+    padding: var(--padding-smi) var(--padding-mid) 97.4px 200px;
+    box-sizing: border-box;
+    gap: var(--gap-9xs);
+    max-width: 100%;
+  }
+  .f7c334-4-1 {
+    height: 52px;
+    width: 63px;
+    position: absolute;
+    margin: 0 !important;
+    right: 17px;
+    bottom: -23px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .image-content,
+  .item-two-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .image-content {
+    align-self: stretch;
+    flex-direction: row;
+    position: relative;
+    margin-top: -26.7px;
+    text-align: left;
+    font-size: var(--font-size-mini);
+    font-family: var(--font-tinos);
+  }
+  .item-two-content {
+    width: 468px;
+    flex-direction: column;
+  }
+  .pedir {
+    flex: 1;
+    position: relative;
+    line-height: 26px;
+  }
+  .order-button-wrapper {
+    width: 123px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-base);
+    box-sizing: border-box;
+  }
+  .counter,
+  .icon1 {
+    position: absolute;
+  }
+  .icon1 {
+    top: 0;
+    left: 0;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.25);
+    border-radius: 50%;
+    background-color: var(--color-gray-200);
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+  }
+  .counter {
+    top: 15.5px;
+    left: 3.2px;
+    line-height: 28.8px;
+    display: inline-block;
+    width: 51.6px;
+    height: 28.8px;
+    min-width: 51.6px;
+    z-index: 3;
+  }
+  .dish-1-1-icon1,
+  .icon-parent {
+    position: absolute;
+    top: 0;
+    left: 116.1px;
+    width: 58px;
+    height: 59.8px;
+  }
+  .dish-1-1-icon1 {
+    height: 196px;
+    width: 203px;
+    margin: 0 !important;
+    top: -7.8px;
+    left: -13.9px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .cheddar-fries-description-child {
+    width: 475.1px;
+    height: 210.5px;
+    position: relative;
+    display: none;
+    max-width: 100%;
+  }
+  .promo-fat-2 {
+    width: 101px;
+    position: relative;
+    font-size: var(--font-size-xl);
+    line-height: 26.9px;
+    color: var(--color-goldenrod);
+    text-align: center;
+    display: inline-block;
+    min-width: 101px;
+    z-index: 1;
+  }
+  .double-fat-cheddar {
+    flex: 1;
+    position: relative;
+    text-decoration: underline;
+    line-height: 26px;
+    z-index: 1;
+  }
+  .cheddar-fries-titles {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 0 var(--padding-9xs);
+  }
+  .hamburguesas-en-pan1 {
+    height: 61px;
+    flex: 1;
+    position: relative;
+    line-height: 26px;
+    display: inline-block;
+    z-index: 1;
+  }
+  .cheddar-fries-description,
+  .cheddar-fries-titles1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .cheddar-fries-titles1 {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 0 0 var(--padding-9xs);
+  }
+  .cheddar-fries-description {
+    flex: 1;
+    background-color: var(--color-darkslategray-100);
+    flex-direction: column;
+    padding: 8.3px var(--padding-2xl) 76.3px 201px;
+    box-sizing: border-box;
+    gap: var(--gap-7xs);
+    max-width: 100%;
+  }
+  .f7c334-4-11 {
+    height: 52px;
+    width: 63px;
+    position: absolute;
+    margin: 0 !important;
+    right: 30px;
+    bottom: -19.7px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .cheddar-fries {
+    position: absolute;
+    top: 29.8px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-mini);
+    font-family: var(--font-tinos);
+  }
+  .order-button-icon-wrapper {
+    align-self: stretch;
+    height: 240.3px;
+    position: relative;
+    max-width: 100%;
+  }
+  .pedir1 {
+    flex: 1;
+    position: relative;
+    line-height: 26px;
+  }
+  .cheddar-order {
+    width: 123px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-base);
+    box-sizing: border-box;
+    font-size: var(--font-size-mini);
+    color: var(--color-goldenrod);
+    font-family: var(--font-open-sans);
+  }
+  .order-button-container1,
+  .order-button-icon-container {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .order-button-icon-container {
+    gap: 4.7px;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  .order-button-container1 {
+    gap: 12px;
+  }
+  .bacon-fries-icon {
+    align-self: stretch;
+    height: 54.7px;
+    position: relative;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.25);
+    border-radius: 50%;
+    background-color: var(--color-gray-200);
+    z-index: 2;
+  }
+  .counter1 {
+    flex: 1;
+    position: relative;
+    line-height: 26.3px;
+    display: inline-block;
+    min-width: 52.2px;
+    z-index: 3;
+  }
+  .bacon-fries-counter,
+  .bacon-fries-icon-parent {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .bacon-fries-counter {
+    flex-direction: row;
+    padding: 0 var(--padding-12xs);
+    margin-top: -40.5px;
+  }
+  .bacon-fries-icon-parent {
+    width: 54.2px;
+    flex-direction: column;
+  }
+  .bacon-fries-button-wrapper {
+    width: 296.4px;
+    height: 54.7px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .dish-1-1-icon2 {
+    height: 216.7px;
+    width: 219px;
+    position: absolute;
+    margin: 0 !important;
+    bottom: -11.9px;
+    left: -15.8px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .bacon-fries-description-child {
+    width: 471.2px;
+    height: 223.8px;
+    position: relative;
+    display: none;
+    max-width: 100%;
+  }
+  .promo-fat-3 {
+    width: 109px;
+    position: relative;
+    line-height: 26px;
+    display: inline-block;
+    min-width: 109px;
+    z-index: 1;
+  }
+  .double-fat-bacon,
+  .hamburguesas-en-pan2 {
+    position: relative;
+    line-height: 26px;
+    z-index: 2;
+  }
+  .double-fat-bacon {
+    align-self: stretch;
+    text-decoration: underline;
+  }
+  .hamburguesas-en-pan2 {
+    width: 249px;
+    height: 61px;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .bacon-fries-title-items {
+    flex: 1;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .bacon-fries-description,
+  .bacon-fries-title-items,
+  .bacon-fries-titles {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .bacon-fries-titles {
+    align-self: stretch;
+    flex-direction: row;
+    padding: 0 0 0 var(--padding-9xs);
+    text-align: left;
+    font-size: var(--font-size-mini);
+    color: var(--color-white);
+  }
+  .bacon-fries-description {
+    flex: 1;
+    background-color: var(--color-darkslategray-100);
+    flex-direction: column;
+    padding: var(--padding-2xl) var(--padding-4xs) 84.8px 199px;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .f7c334-4-12 {
+    height: 52px;
+    width: 63px;
+    position: absolute;
+    margin: 0 !important;
+    right: 28px;
+    bottom: -11.2px;
+    object-fit: cover;
+    z-index: 2;
+  }
+  .bacon-fries-item {
+    align-self: stretch;
+    flex-direction: row;
+    position: relative;
+    margin-top: -33.7px;
+    font-size: var(--font-size-xl);
+    color: var(--color-goldenrod);
+    font-family: var(--font-tinos);
+  }
+  .bacon-fries,
+  .bacon-fries-button-container,
+  .bacon-fries-item,
+  .order-icon {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .bacon-fries-button-container {
+    flex: 1;
+    flex-direction: column;
+  }
+  .bacon-fries,
+  .order-icon {
+    align-self: stretch;
+  }
+  .bacon-fries {
+    flex-direction: row;
+    padding: 0 var(--padding-11xs) 0 var(--padding-12xs);
+    box-sizing: border-box;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  .order-icon {
+    flex-direction: column;
+    gap: var(--gap-7xl);
+  }
+  .pedir2 {
+    flex: 1;
+    position: relative;
+    line-height: 26px;
+    z-index: 1;
+  }
+  .bacon-order {
+    width: 123px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 var(--padding-base);
+    box-sizing: border-box;
+    margin-top: -3.8px;
+  }
+  .order-content {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .ver-men {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .menu-icon-container-child {
+    height: 13px;
+    width: 32px;
+    position: relative;
+  }
+  .menu-icon-container {
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 0 68px 0 var(--padding-47xl);
+  }
+  .menu-icon-container,
+  .menu-navigation,
+  .ver-men-parent {
+    display: flex;
+    align-items: flex-start;
+  }
+  .ver-men-parent {
+    width: 166px;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: var(--gap-7xs);
+    cursor: pointer;
+  }
+  .menu-navigation {
+    width: 414px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-xl);
+    box-sizing: border-box;
+    max-width: 100%;
+    font-size: 30px;
+    color: var(--color-white);
+  }
+  .item-two-order,
+  .order-button-container {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .order-button-container {
+    flex: 1;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 70px;
+  }
+  .item-two-order {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 0 0 var(--padding-8xs);
+    box-sizing: border-box;
+    font-size: var(--font-size-mini);
+    color: var(--color-goldenrod);
+    font-family: var(--font-open-sans);
+  }
+  .item-two,
+  .item-two-details {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .item-two-details {
+    align-self: stretch;
+    display: flex;
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+    max-width: 100%;
+  }
+  .item-two {
+    width: 481px;
+    justify-content: flex-end;
+    padding: 0 0 var(--padding-5xs);
+    box-sizing: border-box;
+    min-width: 481px;
+  }
+  .food-items1,
+  .item-two,
+  .menu {
+    display: flex;
+    max-width: 100%;
+  }
+  .food-items1 {
+    width: 1133px;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 113px;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  .menu {
+    align-self: stretch;
+    background-color: var(--color-gray-100);
+    overflow: hidden;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-69xl) var(--padding-xl) 253px var(--padding-30xl);
+    box-sizing: border-box;
+    gap: 67px;
+    text-align: left;
+    font-size: var(--font-size-35xl);
+    color: var(--color-goldenrod);
+    font-family: var(--font-tinos);
+  }
+  .las-hamburguesas-estan,
+  .riqusimas-el-pan {
+    margin: 0;
+  }
+  .las-hamburguesas-estan-container {
+    margin: 0;
+    width: 924px;
+    position: relative;
+    display: inline-block;
+    font-style: italic;
+    max-width: 100%;
+    z-index: 1;
+  }
+  .resea-de-instagram {
+    position: relative;
+    z-index: 1;
+  }
+  .review-source {
+    width: 924px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 100%;
+    text-align: left;
+  }
+  .rating-background-icon {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: -68px;
+    max-height: 100%;
+    width: 2072px;
+    object-fit: cover;
+  }
+  .stars-icon,
+  .stars-icon1,
+  .stars-icon2,
+  .stars-icon3,
+  .stars-icon4 {
+    position: absolute;
+    top: 941px;
+    left: 822px;
+    width: 36px;
+    height: 36px;
+    z-index: 1;
+  }
+  .stars-icon1,
+  .stars-icon2,
+  .stars-icon3,
+  .stars-icon4 {
+    left: 714px;
+  }
+  .stars-icon2,
+  .stars-icon3,
+  .stars-icon4 {
+    left: 598px;
+  }
+  .stars-icon3,
+  .stars-icon4 {
+    left: 768px;
+  }
+  .stars-icon4 {
+    left: 658px;
+  }
+  .rating {
+    width: 100%;
+    height: 1753px;
+    position: absolute;
+    margin: 0 !important;
+    top: -673px;
+    right: 0;
+    left: 0;
+  }
+  .icons8-instagram-2,
+  .resea {
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .resea {
+    align-self: stretch;
+    background-color: var(--color-black);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 166px var(--padding-xl) 165px 42px;
+    box-sizing: border-box;
+    gap: 142px;
+    max-width: 100%;
+    text-align: center;
+    font-size: var(--font-size-xl);
+    color: var(--color-white);
+    font-family: var(--font-open-sans);
+  }
+  .icons8-instagram-2 {
+    width: 21px;
+    height: 21px;
+    display: none;
+    z-index: 0;
+  }
+  .ven-y-disfruta {
+    flex: 1;
+    position: relative;
+    line-height: 29px;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .f7c334-2-icon {
+    height: 144px;
+    width: 136px;
+    position: absolute;
+    margin: 0 !important;
+    top: -116.4px;
+    left: -14px;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .details-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+    max-width: 100%;
+  }
+  .horarios-de-atencn {
+    width: 168px;
+    position: relative;
+    line-height: 42px;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+  .a-2300,
+  .lunes-a-domingo {
+    margin: 0;
+  }
+  .lunes-a-domingo-container {
+    flex: 1;
+    position: relative;
+    line-height: 29px;
+    display: inline-block;
+    min-width: 97px;
+  }
+  .a-23001,
+  .feriados {
+    margin: 0;
+  }
+  .feriados-1900-a-container {
+    flex: 1;
+    position: relative;
+    line-height: 29px;
+    display: inline-block;
+    min-width: 97px;
+  }
+  .schedule-details {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-23xl);
+    font-size: var(--font-size-base);
+  }
+  .schedule {
+    width: 340px;
+    gap: var(--gap-base-6);
+    font-size: var(--font-size-xs);
+  }
+  .content,
+  .details-container,
+  .schedule {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .details-container {
+    align-self: stretch;
+    gap: 28.6px;
+  }
+  .content {
+    width: 413px;
+    padding: 51.4px var(--padding-8xs) 0 0;
+    box-sizing: border-box;
+    font-size: var(--font-size-base);
+  }
+  .navegacn {
+    width: 95px;
+    position: relative;
+    line-height: 42px;
+    text-transform: uppercase;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .contactos,
+  .men1,
+  .sobre-nosotros2 {
+    margin: 0;
+  }
+  .men-sobre-nosotros-container {
+    margin-top: -4px;
+    height: 168px;
+    position: relative;
+    line-height: 40px;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .navigation-links3,
+  .navigation1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .navigation-links3 {
+    height: 164px;
+    flex-direction: row;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: var(--font-size-base);
+  }
+  .navigation1 {
+    flex-direction: column;
+  }
+  .contacto1 {
+    width: 114px;
+    position: relative;
+    line-height: 42px;
+    text-transform: uppercase;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .fatburguerbsas2 {
+    text-decoration: underline;
+  }
+  .fatburguerbsas1 {
+    color: inherit;
+  }
+  .fatburguerbsas,
+  .p {
+    margin: 0;
+  }
+  .fatburgerbsasgmailcom2 {
+    text-decoration: underline;
+  }
+  .fatburgerbsasgmailcom1 {
+    color: inherit;
+  }
+  .fatburgerbsasgmailcom {
+    margin: 0;
+  }
+  .fatburguerbsas-54-9-container {
+    margin-top: -3px;
+    height: 168px;
+    position: relative;
+    line-height: 40px;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .content-container,
+  .content-wrapper,
+  .social,
+  .social-links {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .social-links {
+    flex-direction: row;
+    padding: 0;
+    font-size: var(--font-size-base);
+  }
+  .content-container,
+  .content-wrapper,
+  .social {
+    flex-direction: column;
+  }
+  .content-container,
+  .content-wrapper {
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .content-wrapper {
+    gap: 72px;
+  }
+  .content-container {
+    padding: 0 var(--padding-12xs);
+    box-sizing: border-box;
+  }
+  .divider {
+    align-self: stretch;
+    height: 1px;
+    position: relative;
+    border-top: 1px solid var(--color-gray-200);
+    box-sizing: border-box;
+    opacity: 0.1;
+  }
+  .copyright-symbol-svgrepo-com-1-icon {
+    width: 13px;
+    height: 13.6px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .copyright-details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-4xs) 0 0;
+  }
+  .fat-burger1 {
+    flex: 1;
+    position: relative;
+    line-height: 30px;
+    display: inline-block;
+    min-width: 97px;
+    max-width: 100%;
+  }
+  .copyright {
+    flex: 1;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .copyright,
+  .footer,
+  .footer-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .footer-content {
+    width: 492px;
+    flex-direction: row;
+    padding: 0 var(--padding-7xs);
+    box-sizing: border-box;
+  }
+  .footer {
+    align-self: stretch;
+    flex-direction: column;
+    gap: 36.2px;
+    font-size: var(--font-size-base);
+  }
+  .contacto-child {
+    width: 152px;
+    height: 48px;
+    position: relative;
+    display: none;
+    z-index: 3;
+  }
+  .group-icon {
+    width: 290px;
+    height: 306.4px;
+    position: absolute;
+    margin: 0 !important;
+    right: 86px;
+    bottom: 55.6px;
+    z-index: 1;
+  }
+  .contacto,
+  .desktop-1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .contacto {
+    align-self: stretch;
+    background-color: var(--color-gray-100);
+    overflow: hidden;
+    flex-shrink: 0;
+    padding: 123px var(--padding-119xl) 106px 150px;
+    box-sizing: border-box;
+    gap: 52.2px;
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-xs);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  .desktop-1 {
+    width: 100%;
+    background-color: var(--color-white);
+    overflow-y: auto;
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1350px) {
+    .features {
+      flex-wrap: wrap;
+      padding-left: 183px;
+      box-sizing: border-box;
+    }
+    .anotacin-2024-08-24-195739,
+    .info-content {
+      flex: 1;
+    }
+    .adicional {
+      flex-wrap: wrap;
+    }
+    .menu {
+      padding-left: var(--padding-5xl);
+      padding-top: var(--padding-38xl);
+      padding-bottom: 164px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 1125px) {
+    .navigation {
+      display: none;
+    }
+    .inicio {
+      padding-top: 118px;
+      padding-bottom: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .about-content,
+    .image {
+      display: none;
+      max-width: 100%;
+    }
+    .sobre-nosotros1 {
+      padding-top: 90px;
+      padding-bottom: var(--padding-69xl);
+      box-sizing: border-box;
+    }
+    .info-content {
+      min-width: 100%;
+    }
+    .item-two {
+      flex: 1;
+    }
+    .food-items1 {
+      gap: 56px;
+      flex-wrap: wrap;
+    }
+    .resea {
+      gap: 71px;
+      padding-left: var(--padding-2xl);
+      box-sizing: border-box;
+    }
+    .content-wrapper {
+      gap: var(--gap-17xl);
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .bienvenidos-a-fat-container {
+      font-size: 56px;
+    }
+    .hero-content {
+      gap: var(--gap-base);
+    }
+    .features,
+    .inicio {
+      box-sizing: border-box;
+    }
+    .features {
+      padding-left: 91px;
+    }
+    .inicio {
+      gap: 85px;
+      padding-left: var(--padding-61xl);
+      padding-top: var(--padding-58xl);
+      padding-right: var(--padding-61xl);
+    }
+    .nuestra-historia {
+      font-size: var(--font-size-24xl);
+    }
+    .div,
+    .grid-placeholder,
+    .grid-placeholder1 {
+      font-size: var(--font-size-13xl);
+    }
+    .about-content,
+    .sobre-nosotros1 {
+      padding-top: var(--padding-24xl);
+      box-sizing: border-box;
+    }
+    .sobre-nosotros1 {
+      padding-left: 113px;
+      padding-top: var(--padding-39xl);
+      padding-bottom: var(--padding-38xl);
+    }
+    .jos-c-paz-container {
+      font-size: var(--font-size-23xl);
+    }
+    .adicional {
+      padding-left: var(--padding-58xl);
+      padding-right: var(--padding-61xl);
+      box-sizing: border-box;
+    }
+    .men {
+      font-size: var(--font-size-24xl);
+    }
+    .item-description-icon {
+      flex: 1;
+    }
+    .item-details {
+      flex-wrap: wrap;
+    }
+    .cheddar-fries-description,
+    .vector-parent {
+      padding-left: var(--padding-81xl);
+      box-sizing: border-box;
+    }
+    .bacon-fries-description {
+      padding-left: 99px;
+      box-sizing: border-box;
+    }
+    .ver-men {
+      font-size: var(--font-size-5xl);
+    }
+    .order-button-container {
+      gap: var(--gap-16xl);
+    }
+    .item-two {
+      min-width: 100%;
+    }
+    .food-items1 {
+      gap: var(--gap-9xl);
+    }
+    .menu,
+    .resea {
+      padding-bottom: var(--padding-88xl);
+      box-sizing: border-box;
+    }
+    .menu {
+      gap: var(--gap-14xl);
+      padding-top: var(--padding-18xl);
+    }
+    .resea {
+      gap: var(--gap-16xl);
+      padding-top: 108px;
+    }
+    .footer {
+      gap: var(--gap-lg);
+    }
+    .contacto {
+      gap: var(--gap-7xl);
+      padding: var(--padding-61xl) var(--padding-50xl) var(--padding-50xl) 75px;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .bienvenidos-a-fat-container {
+      font-size: var(--font-size-23xl);
+    }
+    .el-sabor-mas-container,
+    .ingredientes-frescos-y,
+    .la-mejor-calidad-container,
+    .recetas-que-sorprenden-container,
+    .servicio-excepcional {
+      font-size: var(--font-size-2xl);
+    }
+    .service-description {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .atencin-rpida-y {
+      font-size: var(--font-size-2xl);
+    }
+    .features,
+    .inicio {
+      padding-left: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .inicio {
+      gap: var(--gap-23xl);
+      padding-right: var(--padding-xl);
+    }
+    .nuestra-historia {
+      font-size: var(--font-size-13xl);
+    }
+    .div,
+    .grid-placeholder,
+    .grid-placeholder1 {
+      font-size: var(--font-size-5xl);
+    }
+    .burgers-vendidas,
+    .food-items,
+    .locales {
+      font-size: var(--font-size-base);
+    }
+    .story {
+      gap: 52px;
+    }
+    .sobre-nosotros1 {
+      height: auto;
+      padding-left: var(--padding-xl);
+      box-sizing: border-box;
+    }
+    .jos-c-paz-container {
+      font-size: 31px;
+    }
+    .take-away-blas-container {
+      font-size: 19px;
+    }
+    .adicional {
+      padding: var(--padding-19xl) var(--padding-xl) var(--padding-20xl);
+      box-sizing: border-box;
+    }
+    .men {
+      font-size: var(--font-size-13xl);
+    }
+    .item {
+      min-width: 100%;
+    }
+    .promo-fat-1,
+    .promo-fat-2,
+    .promo-fat-3 {
+      font-size: var(--font-size-base);
+      line-height: 21px;
+    }
+    .ver-men {
+      font-size: var(--font-size-lg);
+    }
+    .menu {
+      gap: var(--gap-mid);
+    }
+    .las-hamburguesas-estan-container,
+    .resea-de-instagram {
+      font-size: var(--font-size-base);
+    }
+    .schedule-details {
+      gap: var(--gap-2xl);
+      flex-wrap: wrap;
+    }
+    .content-wrapper {
+      gap: var(--gap-lg);
+    }
+    .contacto {
+      padding-left: var(--padding-xl);
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }
+  
