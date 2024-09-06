@@ -1,3 +1,22 @@
+html {
+  scroll-behavior: smooth; /* Habilita el desplazamiento suave */
+}
+
+/* styles.css */
+
+/* Inicialmente oculta el contenido y establece la posición */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px); /* Ajusta la distancia del desplazamiento vertical si es necesario */
+  transition: opacity 1s ease-out, transform 1s ease-out; /* Ajusta la duración y el tipo de transición */
+}
+
+/* Clase que activa la visibilidad del contenido */
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 .f7c334-1-icon {
     margin-top: -63px;
     height: 186px;
@@ -982,6 +1001,20 @@
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
+  }
+  .whatsapp {
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  .ig{
+    height: 55px;
+    width: 55px;
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
   }
   .hamburguesas-en-pan-de-papa-br-wrapper {
     align-self: stretch;
